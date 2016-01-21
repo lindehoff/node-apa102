@@ -1,0 +1,29 @@
+{
+  "name": "node-apa102",
+  "version": "1.0.0",
+  "description": "A node module for communicating with APA102 from a Raspberry Pi via SPI",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lindehoff/node-apa102.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "apa102",
+    "spi",
+    "raspberry"
+  ],
+  "author": "lindehoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lindehoff/node-apa102/issues"
+  },
+  "homepage": "https://github.com/lindehoff/node-apa102",
+  "dependencies": {
+    "spi": "^0.2.0"
+  }
+}
